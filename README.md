@@ -80,7 +80,7 @@ n_features = 1
 
 model = Sequential()
 
-model.add(layers.SimpleRNN(50,input_shape=(length, n_features)))
+model.add(layers.SimpleRNN(10,input_shape=(length, n_features)))
 model.add(layers.Dense(1))
 model.compile(optimizer='adam', loss='mse')
 
