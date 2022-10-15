@@ -33,7 +33,7 @@ Follow the same steps to create the Test data. But make sure you combine the tra
 Make Predictions and plot the graph with the Actual and Predicted values.
 
 ## PROGRAM
-
+```python3
 Developed by: Sandhya Charu N
 Register Number: 212220230041
 
@@ -122,7 +122,7 @@ plt.show()
 
 from sklearn.metrics import mean_squared_error as mse
 mse(y_test,predicted_stock_price)
-
+```
 ## OUTPUT
 
 ### True Stock Price, Predicted Stock Price vs time
