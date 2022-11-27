@@ -1,4 +1,4 @@
-### EX NO: 04
+### EX NO: 05
 ### DATE:
 # <p align="center">Stock Price Prediction</p>
 
