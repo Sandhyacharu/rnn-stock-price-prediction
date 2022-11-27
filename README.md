@@ -1,4 +1,6 @@
-# Stock Price Prediction
+### EX NO: 04
+### DATE:
+# <p align="center">Stock Price Prediction</p>
 
 ## AIM
 
@@ -34,8 +36,8 @@ Make Predictions and plot the graph with the Actual and Predicted values.
 
 ## PROGRAM
 ```python3
-Developed by: Sandhya Charu N
-Register Number: 212220230041
+# Developed by: Sandhya Charu N
+# Register Number: 212220230041
 
 import numpy as np
 import matplotlib.pyplot as plt
